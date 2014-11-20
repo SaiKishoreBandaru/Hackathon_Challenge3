@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.cloudfoundry.appcloudserver.classPathProvider/Cloud Foundry (Runtime) v1.0"/>
+	<classpathentry kind="lib" path="dep-jar/com.ibm.ws.javaee.jaxrs.1.1_1.0.1.jar"/>
+	<classpathentry kind="lib" path="/surfExtractor/lib/BoofCV-feature-0.18.jar" sourcepath="/surfExtractor/lib/BoofCV-feature-0.18.jar"/>
+	<classpathentry kind="lib" path="/surfExtractor/lib/BoofCV-ip-0.18.jar"/>
+	<classpathentry kind="lib" path="/surfExtractor/lib/BoofCV-io-0.18.jar"/>
+	<classpathentry kind="lib" path="/usr/local/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/Users/jagadishpd/Documents/eclipse/library/georegression-0.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/googlecode/disruptor/disruptor/2.10.1/disruptor-2.10.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/yammer/metrics/metrics-core/2.2.0/metrics-core-2.2.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="src" path="/surfExtractor"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

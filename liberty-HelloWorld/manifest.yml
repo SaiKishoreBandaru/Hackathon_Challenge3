@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: PG2Challenge3
+  name: PG2Challenge3
+  path: webStarterApp.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
